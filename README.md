@@ -50,5 +50,7 @@ Please cite our paper in your publications if it helps your research:
 
 
 ### Q&A
+Where can we find MCNN create_density.m?
+This function and the dataset are not included in this release as we are not owners of the dataset and cannot release it. Please contact authors of the dataset (they are authors of this paper http://ieeexplore.ieee.org/document/7780439/?reload=true) and the code will work fine. You do not need this funciton to benchmark using the trained models that are hosted. The authors of the dataset were prompt and courteous in our communication with them and you should have no trouble as along you use your academic credentials to contact them. We use the same density function to avoid any implementation bias as the density is the supervisory signal for training these models.
 
 Please send message to valdeepak32@gmail.com or shiv.surya314@gmail.com if you have any query regarding the code.
